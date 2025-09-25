@@ -7,9 +7,9 @@
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=for-the-badge)](https://modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 <meta property="article:published_time" content="2023-09-24T00:00:00Z">
-<img src="MCP.png" alt="MCP.png" width="600"/>
-A Model Context Protocol (MCP) server that provides seamless integration between Claude and Homebridge, enabling AI-powered control of HomeKit accessories.
 
+A Model Context Protocol (MCP) server that provides seamless integration between Claude and Homebridge, enabling AI-powered control of HomeKit accessories.
+<img src="MCP.png" alt="MCP.png" width="600"/>
 ## What is MCP?
 
 The Model Context Protocol (MCP) is an open standard that enables AI assistants to securely connect to external data sources and tools. This server implements MCP to bridge Claude with your Homebridge setup, allowing natural language control of your smart home devices.
