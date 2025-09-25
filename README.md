@@ -6,6 +6,7 @@
 [![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=for-the-badge)](https://modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+<meta property="article:published_time" content="2023-09-24T00:00:00Z">
 
 A Model Context Protocol (MCP) server that provides seamless integration between Claude and Homebridge, enabling AI-powered control of HomeKit accessories.
 
