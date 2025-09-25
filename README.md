@@ -37,7 +37,7 @@ The Model Context Protocol (MCP) is an open standard that enables AI assistants 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/homebridge-mcp-server.git
+git clone https://github.com/EliabLemus/homebridge-mcp-server.git
 cd homebridge-mcp-server
 
 # Build the Docker image
@@ -53,7 +53,7 @@ docker run -it --rm \
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/homebridge-mcp-server.git
+git clone https://github.com/EliabLemus/homebridge-mcp-server.git
 cd homebridge-mcp-server
 
 # Install dependencies
@@ -231,6 +231,6 @@ MIT License - see LICENSE file for details
 ## Support
 
 For issues and questions:
-- Check the [Issues](https://github.com/yourusername/homebridge-mcp-server/issues) section
+- Check the [Issues](https://github.com/EliabLemus/homebridge-mcp-server/issues) section
 - Homebridge community: [Discord](https://discord.gg/kqNCe2D) | [Reddit](https://reddit.com/r/homebridge)
 - MCP Documentation: [Specification](https://spec.modelcontextprotocol.io/)
